@@ -74,7 +74,7 @@
 > ### Most Optimized Iterative Soln
 >
 > -   Time : O( n )
-> -   Space : O( n ) and No Auxillary Stack Space
+> -   Space : O( 1 ) with No Auxillary Stack Space
 
 ```java
 class Solution {
