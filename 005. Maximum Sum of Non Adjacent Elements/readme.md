@@ -112,7 +112,7 @@ public class Solution{
 ```
 
 > ### Space Optimization
->
+> 6 0
 > -   Time : O( n )
 > -   Space : O( 1 )
 
